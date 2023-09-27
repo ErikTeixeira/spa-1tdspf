@@ -1,19 +1,21 @@
- 
-export default function Rodape(){
-
-    return(
-        <>
-        
-        <footer>
-      <div>
-        <ul>
-          <li><a href="#">Git Hub</a></li>
-          <li><a href="#"></a>X</li>
-          <li><a href="#"></a>Reddit</li>
-        </ul>
-      </div>
-    </footer>
-        
-        </>
-    );
+export default function Rodape() {
+  return (
+    <>
+      <footer>
+        <div>
+          <ul>
+            <li>
+              <a href="#">GitHub</a>
+            </li>
+            <li>
+              <a href="#">X</a>
+            </li>
+            <li>
+              <a href="#">Reddit</a>
+            </li>
+          </ul>
+        </div>
+      </footer>
+    </>
+  );
 }
